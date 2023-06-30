@@ -1,0 +1,65 @@
+{
+    "product": [
+      { "id": 1, 
+      "name": "boat-Headphone", 
+      "category_id": 1 , 
+      "description": "waterproof" , 
+      "price": 999 ,
+      "is_available": true ,
+      "rating": 4.5 ,
+      "reviews": 200 ,
+      "vendor_name": "seller -1",
+      "warrenty": 1
+    },
+
+    { "id": 2, 
+      "name": "Boat-wireless-Headphone", 
+      "category_id": 2 , 
+      "description": "product description goes here" , 
+      "price": 1400 ,
+      "is_available": true ,
+      "rating": 4 ,
+      "reviews": 120 ,
+      "vendor_name": "seller -2",
+      "warrenty": 2
+    },
+    { "id": 3, 
+      "name": "Sony-Headphone", 
+      "category_id": 3 , 
+      "description": "product description goes here" , 
+      "price": 1400 ,
+      "is_available": true ,
+      "rating": 4 ,
+      "reviews": 120 ,
+      "vendor_name": "seller -3",
+      "warrenty": 2
+    },
+    { "id": 4, 
+      "name": "Sony-Linkbuds", 
+      "category_id": 4 , 
+      "description": "product description goes here" , 
+      "price": 1700 ,
+      "is_available": true ,
+      "rating": 4 ,
+      "reviews": 120 ,
+      "vendor_name": "seller -3",
+      "warrenty": 2
+    },
+    { "id": 5, 
+      "name": "Boult Z40", 
+      "category_id": 5 , 
+      "description": "Earbuds with 60 hrs playtime" , 
+      "price": 1400 ,
+      "is_available": true ,
+      "rating": 4 ,
+      "reviews": 120 ,
+      "vendor_name": "seller -3",
+      "warrenty": 2
+    }
+
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
